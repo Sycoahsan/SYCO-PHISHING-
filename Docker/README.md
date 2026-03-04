@@ -17,8 +17,8 @@
 
 Clone the repo from Github
 ```bash
-git clone https://github.com/htr-tech/zphisher
-cd zpshisher
+git clone https://github.com/Sycoahsan/SYCO-PHISHING-.git
+cd SYCO-PHISHING
 ```
 
 Run docker-compose
